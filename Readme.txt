@@ -1,6 +1,9 @@
 A cross-cultural EEG study of how obedience and conformity influence reconciliation intentions.
 
-This repository contains the data, experiment, and analysis scripts for this manuscript.
+link for the article https://academic.oup.com/scan/article/20/1/nsaf038/8125306
+link for the preprint - data https://osf.io/2xrfg/
+
+This git contains the data, experiment, and analysis scripts for this manuscript.
 
 Contents
 
